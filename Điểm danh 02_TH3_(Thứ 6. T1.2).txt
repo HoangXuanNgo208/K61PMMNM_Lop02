@@ -1,2 +1,3 @@
 TT ---- Mã sinh viên ----- Họ và tên --------- Ngày sinh
 1 205748020110020     Nguyễn Hữu Nhật   22/09/2002
+2 205748020110208     Hoàng Xuân Ngọ    6/9/2002
